@@ -11,6 +11,8 @@ import android.widget.ImageButton;
 import android.*;
 
 public class Startseite extends Activity {
+
+//ksjhdksahdasfdhhasdfasfkjhsafkhöahjadfffffffffffffff
     
 
 	/** Called when the activity is first created. */
