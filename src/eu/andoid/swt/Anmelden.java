@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
 
+//Hallo Leon
+
 public class Anmelden extends Activity 
 {
 	public static boolean ang_flak= false;
